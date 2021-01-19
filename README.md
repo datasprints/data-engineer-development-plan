@@ -68,18 +68,19 @@
 
 
 ----------------------------------------------------------------------------------------------------------------------------
-##### Sessão podcast
+# Sessão podcast
 
-#### Podcasts para mergulhar a fundo no mundo de dados
+## Podcasts para mergulhar a fundo no mundo de dados
 
-## Português
+##### Português
 [Datahackers](https://lnkd.in/eh2rWwe)
 
 [Hipster tech](https://lnkd.in/eFib79N)
 
 [Pizza de dados](https://pizzadedados.com/)
 
-## Inglês
+
+##### Inglês
 
 [Software Engineering Daily](https://softwareengineeringdaily.com/category/data/)
 
