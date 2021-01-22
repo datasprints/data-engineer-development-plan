@@ -16,6 +16,9 @@ Como a engenharia e a ciência de dados são áreas novas, muitas definições s
 
 Para engenheiro de dados, temos este [artigo](https://medium.com/data-hackers/os-tipos-de-engenheiros-de-dados-c3674b4d74d1) que mostra de uma forma muito leve quais são os perfis e em quais aspectos de aprofundamento cada um está mais focado.
 
+Neste programa iremos trabalhar alguns aspectos, técnicas e habilidades que julgamos necessárias para a formação de um engenheiro de dados.
+
+Aqui um [mapa](/images/map.png) de hard skills que um engenheiro de dados precisa ter.
 
 
 ## 📆 Timeline
