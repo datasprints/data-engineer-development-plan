@@ -1,5 +1,6 @@
-# 🚀  Programa de aceleração de profissionais 
-
+<h3 align="center">
+   🚀 Programa de aceleração de profissionais 
+</h3>
 
 <p align="center">
   <img src="/images/role.png" />
@@ -30,6 +31,7 @@ Para este programa iremos utilizar a timeline abaixo.
 ## 🛠 Tecnologias
 
 - **[Trilha de conhecimento - Cursos On Line](/Treinamentos/e-learning/e-learning.md)**
+- **[Podcasts](/Treinamentos/e-learning/podcasts.md)**
 - **[Treinamentos Teóricos]()**
 - **[Treinamentos Práticos]()**
 	* [Linux](/Treinamentos/Linux/Linux.md)
