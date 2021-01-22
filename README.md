@@ -40,8 +40,6 @@ Para este programa iremos utilizar a timeline abaixo.
 1. Treinamentos
 	* E-Learning
 		- [Trilha de aprendizado](/Treinamentos/e-learning/e-learning.md)
-		- [Podcasts](/Treinamentos/e-learning/podcasts.md)
-		- [Filmes](/Treinamentos/e-learning/movies.md)
 	* Teóricos
 		- [Primeiro Treinamento](https://docs.google.com/presentation/d/1d8gipE2AH88hMySgH0LUBzrDpYKvSOLGAWTEaKhp5Nw/edit?usp=sharing)
 		- [Segundo Treinamento](https://docs.google.com/presentation/d/1GtQEZF_JskxYlHzrR2HqPyLKa-tk3rKalLuJhtrujr8/edit?usp=sharing)
@@ -49,6 +47,8 @@ Para este programa iremos utilizar a timeline abaixo.
 		- [Linux](/Treinamentos/Linux/Linux.md)
 	* Extras
 		- [Linux](/Treinamentos/Linux/Extras)
+		- [Podcasts](/Treinamentos/e-learning/podcasts.md)
+		- [Filmes](/Treinamentos/e-learning/movies.md)
 2. Formulários
 	* Semana 1
 		- [Form1](https://docs.google.com/forms/d/1UMmSYJMug7UYw8khHSmhOOpdCRJ4F0mAE50gQfNyza0/edit?usp=drive_web)
