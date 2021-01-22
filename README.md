@@ -51,6 +51,6 @@ Para este programa iremos utilizar a timeline abaixo.
 
 🚧 Em construção... 🚧
 
-Criado por [Diego Lopes](https://www.linkedin.com/in/lopesdiego12/) & Cícero Moura 👋
+Criado por [Diego Lopes](https://www.linkedin.com/in/lopesdiego12/) & [Cícero Moura](https://www.linkedin.com/in/cicero-moura/) 👋
 
 
