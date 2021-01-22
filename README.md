@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://raw.githubusercontent.com/datasprints/data-egineer-development-plan/main/images/role.png?token=AGMTWEJWT3SZP6LAH4GF5LDABIOS2)" height="150" width="175" alt="Unform" />
+  <img src="(https://raw.githubusercontent.com/datasprints/data-egineer-development-plan/main/images/role.png?token=AGMTWEJWT3SZP6LAH4GF5LDABIOS2)" height="200" width="275" alt="Unform" />
 </p>
 
 <h3 align="center">
