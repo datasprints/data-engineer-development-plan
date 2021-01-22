@@ -10,7 +10,7 @@
 
 ## 💻 Sobre o projeto
 
-A DataSprints se posicionou  como empresa formadora de profissionais de dados, o que também é um diferencial competitivo. Esse mindset gera um ciclo virtuoso onde a DataSprints reforça seu time de profissionais, dando oportunidade a pessoas que estão iniciando a carreira no mercado de trabalho técnico de acelerar seu crescimento cada vez mais.
+A [DataSprints](http://datasprints.com.br/) se posicionou  como empresa formadora de profissionais de dados, o que também é um diferencial competitivo. Esse mindset gera um ciclo virtuoso onde a DataSprints reforça seu time de profissionais, dando oportunidade a pessoas que estão iniciando a carreira no mercado de trabalho técnico de acelerar seu crescimento cada vez mais.
 
 Como a engenharia e a ciência de dados são áreas novas, muitas definições são agregadas no dia a dia para especificar de forma especializada os tipos de perfil que surgem com a experiência e com as necessidades.
 
