@@ -36,9 +36,9 @@ Para este programa iremos utilizar a timeline abaixo.
 		- [Podcasts](/Treinamentos/e-learning/podcasts.md)
 	* Práticos
 		- [Linux](/Treinamentos/Linux/Linux.md)
-	* [Treinamentos Teóricos]
+	* Treinamentos Teóricos
 		- [Linux]()
-	* [Treinamentos Extras]
+	* Treinamentos Extras
 		- [Linux](/Treinamentos/Linux/Extras)
 
 🚧 Em construção... 🚧
