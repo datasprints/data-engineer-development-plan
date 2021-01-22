@@ -25,7 +25,7 @@ Para este programa iremos utilizar a timeline abaixo.
 
 ## 📝 Documentação
 
-- **[Ementa]()**
+- **[Ementa](https://docs.google.com/document/d/1HX_md26C00ORTD-VxcuE3DkVhjANYEQW8uDWyAQ5ZbY/edit?usp=drive_web&ouid=112012153028837850101)**
 - **[Apresentações]()**
 
 ## 🛠 Tecnologias
@@ -37,7 +37,8 @@ Para este programa iremos utilizar a timeline abaixo.
 	* Práticos
 		- [Linux](/Treinamentos/Linux/Linux.md)
 	* Treinamentos Teóricos
-		- [Linux]()
+		- [Primeiro Treinamento](https://docs.google.com/presentation/d/1d8gipE2AH88hMySgH0LUBzrDpYKvSOLGAWTEaKhp5Nw/edit?usp=sharing)
+		- [Segundo Treinamento](https://docs.google.com/presentation/d/1GtQEZF_JskxYlHzrR2HqPyLKa-tk3rKalLuJhtrujr8/edit?usp=sharing)
 	* Treinamentos Extras
 		- [Linux](/Treinamentos/Linux/Extras)
 
