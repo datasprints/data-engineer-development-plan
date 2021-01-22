@@ -18,7 +18,7 @@ Para engenheiro de dados, temos este [artigo](https://medium.com/data-hackers/os
 
 
 
-## 🎨 Timeline
+## 📆 Timeline
 Para este programa iremos utilizar a timeline abaixo.
 ![image](/images/timeline.png)
 
@@ -43,6 +43,8 @@ Para este programa iremos utilizar a timeline abaixo.
 
 🚧 Em construção... 🚧
 
-Criado por Diego Lopes & Cícero Moura 👋
+ 👋 Criado por Diego Lopes & Cícero Moura
+ 
+ ![image](/images/ds.png)
 
 
