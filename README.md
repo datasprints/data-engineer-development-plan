@@ -38,6 +38,7 @@ Para este programa iremos utilizar a timeline abaixo.
 	* E-Learning
 		- [Trilha de conhecimento](/Treinamentos/e-learning/e-learning.md)
 		- [Podcasts](/Treinamentos/e-learning/podcasts.md)
+		- [Filmes](/Treinamentos/e-learning/movies.md)
 	* Teóricos
 		- [Primeiro Treinamento](https://docs.google.com/presentation/d/1d8gipE2AH88hMySgH0LUBzrDpYKvSOLGAWTEaKhp5Nw/edit?usp=sharing)
 		- [Segundo Treinamento](https://docs.google.com/presentation/d/1GtQEZF_JskxYlHzrR2HqPyLKa-tk3rKalLuJhtrujr8/edit?usp=sharing)
