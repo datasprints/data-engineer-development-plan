@@ -1,9 +1,9 @@
 # Trilha de conhecimento Engenharia de dados - Cursos On-Line
 
 ###### Legenda
-- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - Obrigatórios - 8 obrigatórios
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - Extras - 11 extras
-- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) - Específicos - 8 Específicos
+ ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - Obrigatórios 
+ ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - Extras
+ ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) - Específicos
 
 
 ###### Engenharia de dados generalista
