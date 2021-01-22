@@ -30,14 +30,14 @@ Para este programa iremos utilizar a timeline abaixo.
 
 ## 🛠 Tecnologias
 
-- **[Treinamentos]()**
-	- **[Práticos]()**
-		*[Trilha de conhecimento/E-Learning](/Treinamentos/e-learning/e-learning.md)
-		*[Podcasts](/Treinamentos/e-learning/podcasts.md)*
-	- **[Práticos]()**
+1. Treinamentos
+	* E-Learning
+		- [Trilha de conhecimento](/Treinamentos/e-learning/e-learning.md)
+		- [Podcasts](/Treinamentos/e-learning/podcasts.md)*
+	* Práticos
 		*[Linux](/Treinamentos/Linux/Linux.md)*
-	- **[Treinamentos Teóricos]()**
-		*[Linux](/Treinamentos/Linux/Linux.md)*
+	* [Treinamentos Teóricos]
+		*[Linux]()*
 	- **[Treinamentos Extras](/Treinamentos/Linux/Extras)**
 
 🚧 Em construção... 🚧
