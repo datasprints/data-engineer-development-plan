@@ -1,5 +1,5 @@
 <h3 align="center">
-   🚀 Programa de aceleração de profissionais 
+   🚀 Programa de aceleração de engenheiro de dados 
 </h3>
 
 <p align="center">
