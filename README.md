@@ -1,5 +1,4 @@
-#
-   🚀  Programa de aceleração de profissionais 
+# 🚀  Programa de aceleração de profissionais 
 
 
 <p align="center">
