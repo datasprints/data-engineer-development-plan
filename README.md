@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![](/images/role.png)" height="150" width="175" alt="Unform" />
+  <img src="![](https://github.com/datasprints/data-egineer-development-plan/blob/main/images/role.png)" height="150" width="175" alt="Unform" />
 </p>
 
 <h3 align="center">
@@ -33,7 +33,7 @@ Para este programa iremos utilizar a timeline abaixo.
 - **[Trilha de conhecimento - Cursos On Line](/Treinamentos/e-learning/e-learning.md)**
 - **[Treinamentos Teóricos]()**
 - **[Treinamentos Práticos]()**
-* [Linux](/Treinamentos/Linux/Linux.md)
+- [Linux](/Treinamentos/Linux/Linux.md)
 - **[Treinamentos Extras](/Treinamentos/Linux/Extras)**
 
 🚧 Em construção... 🚧
