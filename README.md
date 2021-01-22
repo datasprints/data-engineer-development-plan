@@ -1,93 +1,43 @@
-# Plano de aceleração de profissionais
-##### Trilha de conhecimento Engenharia de dados
+<p align="center">
+  <img src="![](/images/role.png)" height="150" width="175" alt="Unform" />
+</p>
 
-###### Legenda
-- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - Obrigatórios - 8 obrigatórios
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - Extras - 11 extras
-- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) - Específicos - 8 Específicos
+<h3 align="center">
+  Programa de aceleração de profissionais  🚀
+</h3>
 
+<br>
 
-###### Engenharia de dados generalista
-- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/course/intro-engenharia-de-dados
-- ![#f03c15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse
+## 💻 Sobre o projeto
 
-###### Conceitual
-- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://www.tutorialspoint.com/sql/sql-overview.htm
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/docker-e-docker-compose
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/kubernetes-deployments-volumes-escalabilidade
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/kubernetes-pods-services-configmap
+A DataSprints se posicionou  como empresa formadora de profissionais de dados, o que também é um diferencial competitivo. Esse mindset gera um ciclo virtuoso onde a DataSprints reforça seu time de profissionais, dando oportunidade a pessoas que estão iniciando a carreira no mercado de trabalho técnico de acelerar seu crescimento cada vez mais.
 
-###### Sistemas Operacionais
-- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/course/linux-ubuntu
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/linux-ubuntu-processos
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/vim
+Como a engenharia e a ciência de dados são áreas novas, muitas definições são agregadas no dia a dia para especificar de forma especializada os tipos de perfil que surgem com a experiência e com as necessidades.
 
-###### Banco de dados
-- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/formacao-modelagem-dados
-
-###### Cloud
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/amazon-eks-kubernetes
-- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/formacao-aws-certified-cloud-practitioner
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/formacao-aws-certified-solutions-architect-associate
-
-###### DevOps
-- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+)- https://cursos.alura.com.br/course/git-github-controle-de-versao
-- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/course/terraform
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/aws-s3-manipule-e-armazene-na-nuvem
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade
-
-###### Metodologia ágil
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/formacao-gerente-agil
-
-###### DataScience
-- ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/formacao-data-science
-
-#### Por perfis
-
-##### Perfil Analiser
-
-###### DataViz
-- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) -  https://cursos.alura.com.br/course/tableau-self-service-business-intelligence
-- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) -  https://cursos.alura.com.br/course/power-bi-desktop
-- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) - https://cursos.alura.com.br/course/power-bi-dashboard-relatorios
+Para engenheiro de dados, temos este [artigo](https://medium.com/data-hackers/os-tipos-de-engenheiros-de-dados-c3674b4d74d1) que mostra de uma forma muito leve quais são os perfis e em quais aspectos de aprofundamento cada um está mais focado.
 
 
-##### Perfil Coder
 
-###### Linguagem de programação
-- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) - https://cursos.alura.com.br/course/design-patterns-python
-- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) -  https://cursos.alura.com.br/course/python-funcoes-pacotes-pandas
-- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) - https://cursos.alura.com.br/course/python-tipos-listas-numpy
+## 🎨 Timeline
+Para este programa iremos utilizar a timeline abaixo.
+![image](/images/timeline.png)
 
 
-##### Perfil Builder
+## 📝 Documentação
 
-###### Processamento Batch/Stream
-- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) - https://sparkbyexamples.com/ ou https://www.tutorialspoint.com/apache_spark/index.htm
-- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) - https://cursos.alura.com.br/formacao-kafka
+- **[Ementa]()**
+- **[Apresentações]()**
 
+## 🛠 Tecnologias
 
-----------------------------------------------------------------------------------------------------------------------------
-# Sessão podcast
+- **[Trilha de conhecimento - Cursos On Line](/Treinamentos/e-learning/e-learning.md)**
+- **[Treinamentos Teóricos]()**
+- **[Treinamentos Práticos]()**
+* [Linux](/Treinamentos/Linux/Linux.md)
+- **[Treinamentos Extras](/Treinamentos/Linux/Extras)**
 
-## Podcasts para mergulhar a fundo no mundo de dados
+🚧 Em construção... 🚧
 
-##### Português
-[Datahackers](https://lnkd.in/eh2rWwe)
-
-[Hipster tech](https://lnkd.in/eFib79N)
-
-[Pizza de dados](https://pizzadedados.com/)
+Criado por Diego Lopes & Cícero Moura 👋
 
 
-##### Inglês
-
-[Software Engineering Daily](https://softwareengineeringdaily.com/category/data/)
-
-[Data Engineering](https://lnkd.in/e3f5cVk)
-
-[Data Skeptic](https://lnkd.in/e_YCTsq)
-
-[Not so standard deviations](http://nssdeviations.com/)
-
-[O'Reilly](https://lnkd.in/eXgm2ny)
