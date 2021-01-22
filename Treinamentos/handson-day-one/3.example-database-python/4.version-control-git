@@ -1,0 +1,9 @@
+1. git init
+2. git remote add origin <url_remote_link>
+3. git remote -v
+4. git status
+5. git checkout -b name-new-branch
+6. git add .
+7. git commit -m "initial commit"
+8. git push origin name-new-branch
+9. next step is to open merge request (MR) in UI GitLab
