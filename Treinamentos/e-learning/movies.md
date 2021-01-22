@@ -14,6 +14,6 @@
 
 - Ex Machina - [Ex Machina](https://globoplay.globo.com/ex_machina-instinto-artificial/t/bZCTD1wRP5/?gclid=Cj0KCQiAjKqABhDLARIsABbJrGmS6BwcoZhZSzVc_1QOzCdEbU-SQxXNwQOFmVz6ytFDZIw7ji8Wz4IaAv11EALw_wcB)
 
-- The Imitation Game - [O Jogo da Imitação](https://www.primevideo.com/detail/O-jogo-da-imita%C3%A7%C3%A3o/- 0RE594TD30MV9KITHPFBQ312IA?_encoding=UTF8&language=pt_BR)
+- The Imitation Game - [O Jogo da Imitação](https://www.primevideo.com/detail/O-jogo-da-imita%C3%A7%C3%A3o/0RE594TD30MV9KITHPFBQ312IA?_encoding=UTF8&language=pt_BR)
 
 - Minority Report - [Minority Report A Nova Lei](https://www.netflix.com/br/title/60023071)
