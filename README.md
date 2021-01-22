@@ -33,12 +33,13 @@ Para este programa iremos utilizar a timeline abaixo.
 1. Treinamentos
 	* E-Learning
 		- [Trilha de conhecimento](/Treinamentos/e-learning/e-learning.md)
-		- [Podcasts](/Treinamentos/e-learning/podcasts.md)*
+		- [Podcasts](/Treinamentos/e-learning/podcasts.md)
 	* Práticos
-		*[Linux](/Treinamentos/Linux/Linux.md)*
+		- [Linux](/Treinamentos/Linux/Linux.md)
 	* [Treinamentos Teóricos]
-		*[Linux]()*
-	- **[Treinamentos Extras](/Treinamentos/Linux/Extras)**
+		- [Linux]()
+	* [Treinamentos Extras]
+		- [Linux](/Treinamentos/Linux/Extras)**
 
 🚧 Em construção... 🚧
 
