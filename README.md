@@ -38,12 +38,12 @@ Para este programa iremos utilizar a timeline abaixo.
 	* E-Learning
 		- [Trilha de conhecimento](/Treinamentos/e-learning/e-learning.md)
 		- [Podcasts](/Treinamentos/e-learning/podcasts.md)
-	* Práticos
-		- [Linux](/Treinamentos/Linux/Linux.md)
-	* Treinamentos Teóricos
+	* Teóricos
 		- [Primeiro Treinamento](https://docs.google.com/presentation/d/1d8gipE2AH88hMySgH0LUBzrDpYKvSOLGAWTEaKhp5Nw/edit?usp=sharing)
 		- [Segundo Treinamento](https://docs.google.com/presentation/d/1GtQEZF_JskxYlHzrR2HqPyLKa-tk3rKalLuJhtrujr8/edit?usp=sharing)
-	* Treinamentos Extras
+	* Práticos
+		- [Linux](/Treinamentos/Linux/Linux.md)
+	* Extras
 		- [Linux](/Treinamentos/Linux/Extras)
 2. Formulários
 	* Semana 1
@@ -51,6 +51,6 @@ Para este programa iremos utilizar a timeline abaixo.
 
 🚧 Em construção... 🚧
 
-Criado por [Diego Lopes](https://www.linkedin.com/in/lopesdiego12/) & [Cícero Moura](https://www.linkedin.com/in/cicero-moura/) 👋
+Criado por [Diego Lopes](https://www.linkedin.com/in/lopesdiego12/) & Cícero Moura 👋
 
 
