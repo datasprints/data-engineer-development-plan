@@ -1,6 +1,4 @@
-<p align="center">
- ![image](/images/role.png)
-</p>
+![image](/images/role.png)
 
 <h3 align="center">
    🚀 Programa de aceleração de profissionais 
