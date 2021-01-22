@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="![](https://github.com/datasprints/data-egineer-development-plan/blob/main/images/role.png)" height="150" width="175" alt="Unform" />
+  <img src="(https://github.com/datasprints/data-egineer-development-plan/blob/main/images/role.png)" height="150" width="175" alt="Unform" />
 </p>
 
 <h3 align="center">
-  Programa de aceleração de profissionais  🚀
+   🚀 Programa de aceleração de profissionais 
 </h3>
 
 <br>
