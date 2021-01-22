@@ -39,7 +39,7 @@ Para este programa iremos utilizar a timeline abaixo.
 
 1. Treinamentos
 	* E-Learning
-		- [Trilha de conhecimento](/Treinamentos/e-learning/e-learning.md)
+		- [Trilha de aprendizado](/Treinamentos/e-learning/e-learning.md)
 		- [Podcasts](/Treinamentos/e-learning/podcasts.md)
 		- [Filmes](/Treinamentos/e-learning/movies.md)
 	* Teóricos
