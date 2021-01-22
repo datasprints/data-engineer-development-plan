@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/timeline.png" />
+  <img src="/images/role.png" />
 </p>
 
 <h3 align="center">
