@@ -23,6 +23,9 @@ Para este programa iremos utilizar a timeline abaixo.
 ![image](/images/timeline.png)
 
 
+## 🧾 Hard skills de engenharia de dados
+![image](/images/map.png)
+
 ## 📝 Documentação
 
 - **[Ementa](https://docs.google.com/document/d/1HX_md26C00ORTD-VxcuE3DkVhjANYEQW8uDWyAQ5ZbY/edit?usp=drive_web&ouid=112012153028837850101)**
