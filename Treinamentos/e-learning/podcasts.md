@@ -1,8 +1,8 @@
-##### Sessão podcast
+##  Sessão podcast
 
-#### Podcasts para mergulhar a fundo no mundo de dados
+### Podcasts para mergulhar a fundo no mundo de dados
 
-## Português
+####  Português
 
 - Datahackers
 https://lnkd.in/eh2rWwe
