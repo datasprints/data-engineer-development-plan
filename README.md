@@ -39,12 +39,10 @@ Para este programa iremos utilizar a timeline abaixo.
 	* [Treinamentos Teóricos]
 		- [Linux]()
 	* [Treinamentos Extras]
-		- [Linux](/Treinamentos/Linux/Extras)**
+		- [Linux](/Treinamentos/Linux/Extras)
 
 🚧 Em construção... 🚧
 
- 👋 Criado por Diego Lopes & Cícero Moura
- 
- ![image](/images/ds.png)
+Criado por Diego Lopes & Cícero Moura 👋
 
 
