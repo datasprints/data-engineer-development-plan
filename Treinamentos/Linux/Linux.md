@@ -1,6 +1,7 @@
 ##### Pré requisitos
 
-Veja [Docker Install](https://docs.docker.com/docker-for-windows/install/) **Logar e docker estar com status running**
+Instalar docker
+Veja [Docker Install](https://docs.docker.com/docker-for-windows/install/)
 
 
 
