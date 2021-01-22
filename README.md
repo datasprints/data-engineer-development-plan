@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(/images/role.png)" height="400" width="400" />
+  <img src="(/images/role.png)" height="226" width="437" />
 </p>
 
 <h3 align="center">
