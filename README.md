@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://raw.githubusercontent.com/datasprints/data-egineer-development-plan/main/images/role.png?token=AGMTWEJWT3SZP6LAH4GF5LDABIOS2)" height="400" width="400" />
+  <img src="(/images/role.png)" height="400" width="400" />
 </p>
 
 <h3 align="center">
