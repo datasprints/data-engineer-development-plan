@@ -24,7 +24,7 @@ import pymysql
 # In[10]:
 
 
-engine = create_engine("mysql+pymysql://admin:iio21995@database-1.cggv5muj4hlh.us-east-2.rds.amazonaws.com/sakila?charset=utf8mb4")
+engine = create_engine("mysql+pymysql://user:password@url-database/dbname?charset=utf8mb4")
 
 
 # In[16]:
