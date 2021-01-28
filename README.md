@@ -32,7 +32,7 @@ Para este programa iremos utilizar a timeline abaixo.
 -->
 ## 📝 Documentação
 
-- **[Ementa](https://docs.google.com/document/d/1HX_md26C00ORTD-VxcuE3DkVhjANYEQW8uDWyAQ5ZbY/edit?usp=drive_web&ouid=112012153028837850101)**
+- **[Ementa](/Treinamentos/e-learning/Ementa%20do%20Treinamento.pdf)**
 - **[Apresentações]()**
 
 ## 🛠 Tecnologias
@@ -41,7 +41,7 @@ Para este programa iremos utilizar a timeline abaixo.
 	* E-Learning
 		- [Trilha de aprendizado](/Treinamentos/e-learning/e-learning.md)
 	* Teóricos
-		- [Primeiro Treinamento](https://docs.google.com/presentation/d/1d8gipE2AH88hMySgH0LUBzrDpYKvSOLGAWTEaKhp5Nw/edit?usp=sharing)
+		- [Primeiro Treinamento](/Treinamentos/e-learning/%5BBIDIPRJ06%5D%20-%20Treinamento%20-%20Primeiro%20Treinamento.pdf)
 		- [Segundo Treinamento](https://docs.google.com/presentation/d/1GtQEZF_JskxYlHzrR2HqPyLKa-tk3rKalLuJhtrujr8/edit?usp=sharing)
 	* Práticos
 		- [Linux](/Treinamentos/Linux/Linux.md)
