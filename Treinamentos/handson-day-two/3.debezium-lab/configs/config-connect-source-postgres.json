@@ -1,0 +1,17 @@
+{
+  "name": "inventory-connector",  
+  "config": {  
+    "connector.class": "io.debezium.connector.postgresql.PostgresConnector",
+    "tasks.max": "1",  
+    "database.hostname": "postgres-pipeline",  
+    "database.port": "5432",
+    "database.user": "postgres",
+    "database.password": "Postgres2021!", 
+    "database.dbname": "postgres",  
+    "database.server.name": "postgres",
+    "database.history.kafka.bootstrap.servers": "kafka:9092",  
+    "database.history.kafka.topic": "schema-changes.inventory1",
+		"plugin.name": "pgoutput",
+		"slot.name" : "myslotname"
+  }
+}
