@@ -1,0 +1,21 @@
+1. subir todos os containers para o Debezium e Postgres
+2. no Postgres é necessário mudar o WAL para Logico no seguinte caminho:
+	- /home/docker/postgres/db/postgresql.conf (caminho da máquina local)
+	- alterar a linha: wal_level para logical
+	- obs: deve se alterar como root
+3. baixar o connector do S3 para dentro do container connect-debezium no caminho:
+	- /kafka/connect
+	- link do connector: https://www.confluent.io/hub/confluentinc/kafka-connect-s3
+4. configurar os connect do Postgres para um tópico no kafka:
+	- endpoint POST /connect com JSON no corpo
+	- json do arquivo: config-connect-source-postgres.json
+	- esse é o tipo de connector source
+5. Para enviar para o S3 os arquivos em formato avro, configurar as libs:
+	- dentro da pasta do container /kafka/libs
+	- baixar os jars: guava-28.2-jre.jar, hadoop-client-3.3.0.jar, failureaccess-1.0.jar
+	- no endpoint POST /connect utilizar o json: s3-sink-avro-config.json 
+	- esse é o tipo de connector sink
+6. Para enviar arquivos no S3 em parquet:
+	- no endpoint POST /connect utilizar o json: s3-sink-parquet-config.json
+	- esse é o tipo de connector sink
+7. as crendencias da aws pode ser exportadas como variáveis de ambientes ou estar dentro do container do connect no arquivo ~/.aws/credentials
