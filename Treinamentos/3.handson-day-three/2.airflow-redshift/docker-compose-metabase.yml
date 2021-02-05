@@ -1,0 +1,14 @@
+version: "3"
+services:
+
+  metabase-app:
+    image: metabase/metabase
+    restart: always
+    ports:
+      - 3000:3000
+    volumes:
+      - /home/docker/metabase-data:/metabase-data
+
+networks: 
+  metabase-compose-network:
+    driver: bridge
