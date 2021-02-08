@@ -64,5 +64,5 @@
 ##### Perfil Builder
 
 ###### Processamento Batch/Stream
-- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) - https://sparkbyexamples.com/ ou https://www.tutorialspoint.com/apache_spark/index.htm
+- ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) - https://sparkbyexamples.com/ ou https://www.tutorialspoint.com/apache_spark/index.htm ou https://www.udacity.com/course/learn-spark-at-udacity--ud2002
 - ![#0519F8](https://via.placeholder.com/8/1519F8/000000?text=+) - https://cursos.alura.com.br/formacao-kafka
