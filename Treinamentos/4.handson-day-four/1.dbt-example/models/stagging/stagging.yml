@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: game_sales_db
+    tables:
+      - name: game_sales
