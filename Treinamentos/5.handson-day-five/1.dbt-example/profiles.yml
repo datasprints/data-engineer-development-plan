@@ -1,0 +1,10 @@
+athena:
+  target: athena
+  outputs:
+    athena:
+      type: athena
+      database: awsdatacatalog
+      schema: game_sales_db
+      region_name: us-east-2
+      threads: 4
+      s3_staging_dir: s3://datarocket-athena-results
