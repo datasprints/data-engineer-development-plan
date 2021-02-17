@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO)
 
 ENVIRONMENT = os.environ['ENVIRONMENT']
 AWS_REGION = os.environ['AWS_REGION']
-ECR_REPO_NAME = 'production-dbt-image'
+ECR_REPO_NAME = 'dbt-serverless'
 IMAGE_TAG = 'latest'
 
 docker_client = docker.from_env()
