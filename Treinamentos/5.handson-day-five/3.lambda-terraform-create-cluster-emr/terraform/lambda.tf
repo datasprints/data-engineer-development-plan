@@ -10,10 +10,19 @@ resource "aws_lambda_function" "lambda_function" {
 
   runtime = "python3.8"
 
+  tags = {
+    lambda = "emr"
+  }
+
 }
 
 data "archive_file" "file" {
   type        = "zip"
   source_dir  = "lambda_code/"
   output_path = "build/${local.function_name}.zip"
+}
+
+resource "aws_cloudwatch_log_group" "log_group" {
+  name = "/aws/lambda/${local.function_name}"
+  retention_in_days = 5
 }
