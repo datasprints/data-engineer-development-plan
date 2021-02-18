@@ -34,11 +34,6 @@ resource "aws_iam_policy" "basic_role" {
   "Statement": [
     {
       "Effect": "Allow",
-      "Action": "logs:CreateLogGroup",
-      "Resource": "arn:aws:logs:${var.region}:${var.account_id}:*"
-    },
-    {
-      "Effect": "Allow",
       "Action": [
         "logs:CreateLogStream",
         "logs:PutLogEvents"
