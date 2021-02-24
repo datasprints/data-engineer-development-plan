@@ -1,0 +1,15 @@
+## create variables in gitlab
+## AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_DEFAULT_REGION and AWS_BUCKET
+
+stages:
+  - deploy
+
+deploy_production:
+  stage: deploy
+  image: napp/docker-aws-cli
+  script:
+    - cd pyspark/ && zip -r modules.zip modules/ .
+    - aws s3 cp ./modules.zip s3://$AWS_BUCKET/latest/
+    - aws s3 cp main.py s3://$AWS_BUCKET/latest/
+  only: 
+    - master
