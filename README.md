@@ -43,13 +43,13 @@ Para este programa iremos utilizar a timeline abaixo.
 	* E-Learning
 		- [Trilha de aprendizado](/Treinamentos/e-learning/e-learning.md)
 	* Teóricos
-		- [Primeiro Treinamento](/Treinamentos/1%20-%20Primeiro%20Treinamento%20-%20Engenheiro%20de%20Dados%2C%20Ferramentas%20e%20Data%20Lake%20.pdf)
-		- [Segundo Treinamento](/Treinamentos/2%20-%20Segundo%20Treinamento%20-%20Ingest%C3%A3o%20de%20Dados%20por%20Streaming%20e%20Batch.pdf)
-		- [Terceiro Treinamento](/Treinamentos/3%20-%20Terceiro%20Treinamento%20-%20Armazenamento%20de%20Dados%20em%20Big%20Data.pdf)
-		- [Quarto Treinamento parte 1](/Treinamentos/4.1%20-%20Quarto%20Treinamento%20%20-%20%20Processamento%20de%20Dados%20em%20Big%20Data.pdf)
-		- [Quarto Treinamento parte 2](/Treinamentos/4.2%20-%20Quarto%20Treinamento%20-%20Processamento%20com%20Spark.pdf)
-		- [Quinto Treinamento parte 1](/Treinamentos/5.1%20-%20Quinto%20Treinamento%20-%20Oquestra%C3%A7%C3%A3o%20de%20Pipeline.pdf)
-		- [Quinto Treinamento parte 2](/Treinamentos/5.2%20-%20Quinto%20Treinamento%20-%20IaC%20e%20Ci-CD.pdf)
+		- [Primeiro Treinamento - Engenheiro de Dados e Ferramentas](/Treinamentos/1%20-%20Primeiro%20Treinamento%20-%20Engenheiro%20de%20Dados%2C%20Ferramentas%20e%20Data%20Lake%20.pdf)
+		- [Segundo Treinamento - Ingestão de Dados por Batch e Streaming](/Treinamentos/2%20-%20Segundo%20Treinamento%20-%20Ingest%C3%A3o%20de%20Dados%20por%20Streaming%20e%20Batch.pdf)
+		- [Terceiro Treinamento - Armazenamento de Dados em Big Data](/Treinamentos/3%20-%20Terceiro%20Treinamento%20-%20Armazenamento%20de%20Dados%20em%20Big%20Data.pdf)
+		- [Quarto Treinamento parte 1 - Processamento de Dados](/Treinamentos/4.1%20-%20Quarto%20Treinamento%20%20-%20%20Processamento%20de%20Dados%20em%20Big%20Data.pdf)
+		- [Quarto Treinamento parte 2 - Processamento com Spark](/Treinamentos/4.2%20-%20Quarto%20Treinamento%20-%20Processamento%20com%20Spark.pdf)
+		- [Quinto Treinamento parte 1 - Orquestão de PIpeline de Dados](/Treinamentos/5.1%20-%20Quinto%20Treinamento%20-%20Oquestra%C3%A7%C3%A3o%20de%20Pipeline.pdf)
+		- [Quinto Treinamento parte 2 - IaC e CI/CD](/Treinamentos/5.2%20-%20Quinto%20Treinamento%20-%20IaC%20e%20Ci-CD.pdf)
 	* Práticos
 		- [Linux](/Treinamentos/Linux/Linux.md)
 	* Extras
