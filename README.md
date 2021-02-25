@@ -42,16 +42,16 @@ Para este programa iremos utilizar a timeline abaixo.
 		- [Trilha de aprendizado](/Treinamentos/e-learning/e-learning.md)
 	* Teóricos
 		- [Primeiro Treinamento](/Treinamentos/%5BBIDIPRJ06%5D%20-%20Treinamento%20-%20Primeiro%20Treinamento.pdf)
-		- [Segundo Treinamento](https://docs.google.com/presentation/d/1GtQEZF_JskxYlHzrR2HqPyLKa-tk3rKalLuJhtrujr8/edit?usp=sharing)
+		- [Segundo Treinamento](/Treinamentos/2 - Segundo Treinamento - Ingestão de Dados por Streaming e Batch.pdf)
+		- [Terceiro Treinamento](https://docs.google.com/presentation/d/1GtQEZF_JskxYlHzrR2HqPyLKa-tk3rKalLuJhtrujr8/edit?usp=sharing)
+		- [Quarto Treinamento](https://docs.google.com/presentation/d/1GtQEZF_JskxYlHzrR2HqPyLKa-tk3rKalLuJhtrujr8/edit?usp=sharing)
+		- [Quinto Treinamento](https://docs.google.com/presentation/d/1GtQEZF_JskxYlHzrR2HqPyLKa-tk3rKalLuJhtrujr8/edit?usp=sharing)
 	* Práticos
 		- [Linux](/Treinamentos/Linux/Linux.md)
 	* Extras
 		- [Linux](/Treinamentos/Linux/Extras)
 		- [Podcasts](/Treinamentos/e-learning/podcasts.md)
 		- [Filmes](/Treinamentos/e-learning/movies.md)
-2. Formulários
-	* Semana 1
-		- [Form1](https://docs.google.com/forms/d/1UMmSYJMug7UYw8khHSmhOOpdCRJ4F0mAE50gQfNyza0/edit?usp=drive_web)
 
 🚧 Em construção... 🚧
 
