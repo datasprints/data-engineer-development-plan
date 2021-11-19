@@ -36,20 +36,20 @@ https://cursos.alura.com.br/formacao-gerente-agil
 ###### DataScience
 https://cursos.alura.com.br/formacao-data-science
 
-##### Por perfis
-###### Perfil Analiser
+#### Por perfis
+##### Perfil Analiser
 ###### DataViz
 https://cursos.alura.com.br/course/tableau-self-service-business-intelligence
 https://cursos.alura.com.br/course/power-bi-desktop
 https://cursos.alura.com.br/course/power-bi-dashboard-relatorios
 
-###### Perfil Coder
+##### Perfil Coder
 ###### Linguagem de programação
 https://cursos.alura.com.br/course/design-patterns-python
 https://cursos.alura.com.br/course/python-funcoes-pacotes-pandas
 https://cursos.alura.com.br/course/python-tipos-listas-numpy
 
-###### Perfil Builder
+##### Perfil Builder
 ###### Processamento Batch/Stream
 https://sparkbyexamples.com/
 https://www.tutorialspoint.com/apache_spark/index.htm
